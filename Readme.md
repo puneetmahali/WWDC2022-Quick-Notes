@@ -274,31 +274,31 @@
 
 ## iPadOS 16
 ### Weather App
-Now on iPad
-WeatherKit
-Build weather into your app
+- Now on iPad
+- WeatherKit
+  - Build weather into your app
 
 
 ### Collaboration
-New live collaboration features within Apple apps
-Collaboration API so you can integrate it into your own app
+- New live collaboration features within Apple apps
+- Collaboration API so you can integrate it into your own app
 
 
 ### Free form
-Digital white board that you can open up during a Facetime that everyone can collaborate on
-iPadOS, macOS and iOS (later this year)
+- Digital white board that you can open up during a Facetime that everyone can collaborate on
+- iPadOS, macOS and iOS (later this year)
 
 
 ### iPad Gaming
-Background download API
-Start a Shareplay session and play with others
+- Background download API
+- Start a Shareplay session and play with others
 
 
 ### iPad Pro and Air
-Display scaling
-Increase pixel density for more screen real estate
-Virtual memory swap for better performance
-Stage manager to iPadOS for better multi-tasking
-Resize windows for apps on iPad
-Multiple Overlapping windows
-Full external display support
+- Display scaling
+  - Increase pixel density for more screen real estate
+- Virtual memory swap for better performance
+- Stage manager to iPadOS for better multi-tasking
+- Resize windows for apps on iPad
+- Multiple Overlapping windows
+- Full external display support
